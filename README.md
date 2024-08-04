@@ -41,15 +41,21 @@ Country-Based Mapping:
 We aggregate habitat data by country to calculate the total number of species and endangered species per country. This information is visualized to highlight countries with high biodiversity and those facing significant conservation challenges.
 
 **Requirements**
+
 To run this project, you will need:
 
 Python 3.x
+
 GeoPandas
+
 Matplotlib
+
 Contextily
+
 Pandas
+
 Shapely
-You can install these packages using pip.
+
 
 **Data Sources**
 [IUCN Global Mammal Database](URL to IUCN database)
