@@ -5,6 +5,7 @@ This project explores the International Union for Conservation of Nature (IUCN) 
 **Project Structure**
 
 **1. Statistical Exploration**
+
 Dataset Parsing:
 
 We begin by examining the dataset to determine the number of records and attributes. This initial analysis helps us understand the scope and structure of the data.
@@ -58,5 +59,5 @@ Shapely
 
 
 **Data Sources**
-[IUCN Global Mammal Database]((https://www.iucnredlist.org/resources/spatial-data-download))
-[Natural Earth Admin 0 Countries]((https://www.naturalearthdata.com/downloads/10m-cultural-vectors/))
+[IUCN Global Mammal Database](([https://www.iucnredlist.org/resources/spatial-data-download](url)))
+[Natural Earth Admin 0 Countries]([(https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)](url))
