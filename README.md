@@ -62,4 +62,4 @@ Shapely
 
 [IUCN Global Mammal Database][(([https://www.iucnredlist.org/resources/spatial-data-download](url)))]
 
-[Natural Earth Admin 0 Countries][(([(https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)](url)))]
+[Natural Earth Admin 0 Countries][(([https://www.naturalearthdata.com/downloads/10m-cultural-vectors/](url)))]
