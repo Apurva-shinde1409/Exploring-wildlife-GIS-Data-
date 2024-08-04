@@ -2,9 +2,9 @@
 **Overview**
 This project explores the International Union for Conservation of Nature (IUCN) geospatial database for terrestrial mammals. The dataset provides habitat information for over 12,000 mammal species worldwide. The goal is to analyze the dataset to understand species distributions, visualize habitat data, and gain insights for conservation efforts.
 
-****Project Structure**
+**Project Structure**
 
-**1. Statistical Exploration****
+**1. Statistical Exploration**
 Dataset Parsing:
 
 We begin by examining the dataset to determine the number of records and attributes. This initial analysis helps us understand the scope and structure of the data.
