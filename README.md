@@ -58,5 +58,5 @@ Shapely
 
 
 **Data Sources**
-[IUCN Global Mammal Database](URL to IUCN database)
-[Natural Earth Admin 0 Countries](URL to Natural Earth database)
+[IUCN Global Mammal Database]((https://www.iucnredlist.org/resources/spatial-data-download))
+[Natural Earth Admin 0 Countries]((https://www.naturalearthdata.com/downloads/10m-cultural-vectors/))
